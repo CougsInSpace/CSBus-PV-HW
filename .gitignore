@@ -1,0 +1,19 @@
+# Autodesk
+OldVersions
+*.ipj
+
+# EAGLE old versions
+*.b#*
+*.s#*
+*.epf
+
+# Microsoft Temp Files
+*~$*
+
+# LTSpice Simulation Results
+*.log*
+*.raw*
+*.plt*
+*.net
+
+
